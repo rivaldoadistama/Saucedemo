@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout dengan langkah yang valid</description>
+   <name>CKO-001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2baac383-c184-498c-b595-b31d8f8c22e4</testCaseGuid>
+</TestCaseEntity>

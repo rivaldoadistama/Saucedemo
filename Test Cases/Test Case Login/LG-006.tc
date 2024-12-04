@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukan password yag salah</description>
+   <name>LG-006</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebbe735d-8e4f-4435-aa13-0797106e3a4c</testCaseGuid>
+</TestCaseEntity>

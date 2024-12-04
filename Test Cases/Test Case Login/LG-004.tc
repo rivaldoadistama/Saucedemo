@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan persyaratan yang tidak valid.&#xd;
+&#xd;
+Mengosongkan field username&#xd;
+Mengosongkan field password</description>
+   <name>LG-004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5e4b976-a332-4f33-8211-2d1241c4b8a7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan persyaratan yang tidak valid tidak menginputkan password</description>
+   <name>LG-002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e56eb79-8563-4787-bcb3-40dd5c735827</testCaseGuid>
+</TestCaseEntity>

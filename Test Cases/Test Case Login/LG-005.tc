@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memasukan username yang tidak valid</description>
+   <name>LG-005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5cbb6b2-5768-45b1-b505-93bb2e5671ca</testCaseGuid>
+</TestCaseEntity>

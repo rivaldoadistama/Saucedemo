@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chekout dengan persyaratan yang tidak valid.&#xd;
+&#xd;
+mengosongkan field first name.</description>
+   <name>CKO-002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a14fed7f-3e51-4757-a21a-27353a3bef92</testCaseGuid>
+</TestCaseEntity>

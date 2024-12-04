@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan langkah yang valid</description>
+   <name>LG-001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f82c70ca-cb26-465d-8b49-b3ab70a82d1b</testCaseGuid>
+</TestCaseEntity>
